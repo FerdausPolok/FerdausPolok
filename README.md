@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerdausPolok
-- 👀 I’m interested in Data Analysis, Python, Block Chain.
-- 🌱 I’m currently learning Full Stack Web Devolopmennt with Python and JS 
+- 👀 I’m interested in Data Analysis, Python, Block Chain, JAVA.
+- 🌱 I’m currently learning Full Stack Web Devolopmennt with Python, JS. 
 - 📫 Email: contact.ferdauspolok@gmail.com
 
 <!---
