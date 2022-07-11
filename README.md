@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FerdausPolok, a CS Grad and a true learner
 - 🧠 I know Basic Python, C, Java, OOP (Java, Python), HTML, CSS, JS, Bootstrap, DataStucture, and Algorithm.
 - 🧩 I’m interested in Comparative Programming, Web Development using Python, Data Analysis, Block chain
-- 🌱 I’m currently learning Full Stack Web Devolopmennt with Python, JS and Solving problems on LeetCode
+- 🌱 I’m currently learning Full Stack Web Devolopmennt with Python, JS and solving problems on LeetCode
 - 👀 Actively looking for opportunity in Software Industry
 - 📫 Email: contact.ferdauspolok@gmail.com
 
