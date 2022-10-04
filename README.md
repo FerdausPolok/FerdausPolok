@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdauspolok&label=Profile%20views&color=0e75b6&style=flat" alt="ferdauspolok" /> </p>
 
-- 🔭 I’m currently working on [A CRUD Based WebApp using Django](https://github.com/FerdausPolok/Django-JobQuestion-Site)
+- 🔭 I’m currently working on a fully functional E-Commerce Website with Django, HTML, CSS, Bootstrap.
 
 - 🌱 I’m currently learning **Python Django and solving problems on LeetCode**
 
