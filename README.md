@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdauspolok&label=Profile%20views&color=0e75b6&style=flat" alt="ferdauspolok" /> </p>
 
-- 🔭 I’m currently working as **Trainee Software Engineer** at **WellDev** Bangladesh Ltd.
-
-- 🌱 I’m currently learning **JavaScript | React**
+- 🔭 I’m currently working as **Junior Software Engineer** at **WellDev** Bangladesh Ltd.
 
 - 📫 How to reach me **contact.ferdauspolok@gmail.com**
 
